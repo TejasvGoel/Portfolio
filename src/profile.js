@@ -97,14 +97,14 @@ const projects = [
     {
         
         id: "project3",
-        name: "Ecommerce website",
+        name: "Ecommerce website (Give 5 minutes to load it as it is deployed on heroku)",
         skills: ["HTML, CSS, JS, React, Redux, Firebase, Stripe, firestore, Redux-thunk, Redux-saga, Heroku"],
         url: "https://simpl-clothing.herokuapp.com/"
     },
     {
        
         id: "project4",
-        name: "Facial Recognition Website",
+        name: "Facial Recognition Website (Give 5 minutes to load it as it is deployed on heroku)",
         skills: ["HTML, CSS, JS, React, PostgreSQL, Heroku, ExpressJS, NodeJS"],
         url: "https://box-on-the-face.herokuapp.com/"
     },
